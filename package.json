@@ -1,0 +1,13 @@
+{
+    "author": "Bard Dayely",
+    "name": "censorify-r",
+    "description": "censors words out of text",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/figmairfan678-ai/censor_stack"
+    },
+    "keywords": ["censor","words"],
+    "dependencies": {},
+    "engines": {"node": "*"}
+}
